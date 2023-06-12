@@ -4,8 +4,8 @@ Ostad Live Test Project
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
+![Screenshot 1](screenshot/mainlayout.png)
+*Main Layout*
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+![Screenshot 2](screenshot/cart_snackbar.png)
+*Cart Snackbar Message*
