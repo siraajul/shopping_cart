@@ -4,8 +4,8 @@ Ostad Live Test Project
 
 ## Screenshots
 
-![Screenshot 1](screenshot/mainlayout.png)
+ <img src="screenshot/mainlayout.png" alt="Screenshot 2" width="250" height="500">
 *Main Layout*
 
-![Screenshot 2](screenshot/cart_snackbar.png)
+<img src="screenshot/cart_sackbar.png" alt="Screenshot 2" width="250" height="500">
 *Cart Snackbar Message*
